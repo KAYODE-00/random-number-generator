@@ -1,0 +1,28 @@
+body{
+    font-family: verdna;
+    text-align: center;
+}
+#changeBtn{
+    float: right;
+    border-radius: 20px;
+    padding: 4px;
+    background-color: #0b3030;   
+    width: 31px;
+    height: 21px;
+    box-shadow: inset;
+}
+Button{
+    font-size: 1em;
+    padding: 5px 25px;
+    border-radius: 7px;
+}
+Button:hover{
+    background-color: #0b3030;
+    color: aliceblue;
+    font-size: 1em;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+myLabel{
+font-size: 21em;
+}
